@@ -1,0 +1,5 @@
+name: LPPlayerGroupAutoAdd-Spigot
+version: 2.0.0
+main: com.mc1510ty.spigot.SpigotPlugin
+api-version: '1.20'
+depend: [LuckPerms]
